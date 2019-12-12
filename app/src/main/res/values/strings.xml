@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chitra NITC Coag App</string>
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="age_autofill">Age</string>
+    <string name="oldINR_autofill">Old INR Value</string>
+    <string name="newINR_autofill">New INR Value</string>
+    <string name="oldDosage_autofill">Old Dosage</string>
+    <string-array name="procedure_list">
+        <item>MVR</item>
+        <item>DVR</item>
+        <item>AVR</item>
+        <item>AF</item>
+    </string-array>
+    <!-- Strings related to login -->
+</resources>
